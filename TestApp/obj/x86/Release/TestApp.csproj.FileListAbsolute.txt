@@ -1,0 +1,5 @@
+C:\!Software Solutions\C# Projects\ModernMedical TestApp\TestApp\TestApp\bin\Release\TestApp.exe
+C:\!Software Solutions\C# Projects\ModernMedical TestApp\TestApp\TestApp\bin\Release\TestApp.pdb
+C:\!Software Solutions\C# Projects\ModernMedical TestApp\TestApp\TestApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\!Software Solutions\C# Projects\ModernMedical TestApp\TestApp\TestApp\obj\x86\Release\TestApp.exe
+C:\!Software Solutions\C# Projects\ModernMedical TestApp\TestApp\TestApp\obj\x86\Release\TestApp.pdb
